@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World 0123456789'
+                echo 'Hello World 0123456789 hi tata bye bye'
             }
         }
     }
